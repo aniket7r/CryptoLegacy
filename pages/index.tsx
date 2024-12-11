@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Posterity Wallet</title>
+        <title>CryptoLegacy Wallet</title>
         <meta name="description" content="A thoughtful way to show love to those who matter to you." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -20,7 +20,7 @@ export default function Home() {
             <p className=''>To date, we have achieved important milestones.</p>
             <p className=''>Currently, we can transfer value via tokens to anyone, anywhere.</p>
             <p className=''>If you lose your password and even the seed phrase, there are still chances to regain access to your funds.</p>
-            <p className=''>Imagine you pass away, will your funds be available to those who are important to you? Posterity is here to help you deal with these problems.</p>
+            <p className=''>Imagine you pass away, will your funds be available to those who are important to you? CryptoLegacy is here to help you deal with these problems.</p>
           </div>
         </div>
         <div className='px-48 py-20 my-20 flex items-center flex-col'>

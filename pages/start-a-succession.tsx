@@ -137,7 +137,7 @@ export default function RecoverWallet() {
     } else {
       return (
         <p className="text-base">
-          You still haven&apos;t been added as an heir in a Posterity Wallet.
+          You still haven&apos;t been added as an heir in a CryptoLegacy Wallet.
         </p>
       );
     }

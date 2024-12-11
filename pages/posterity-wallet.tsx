@@ -392,7 +392,7 @@ export default function PosterityWallet() {
   return (
     <>
       <Head>
-        <title>Posterity Wallet</title>
+        <title>CryptoLegacy Wallet</title>
         <meta
           name="description"
           content="A thoughtful way to show love to those who matter to you."

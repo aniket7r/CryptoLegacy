@@ -20,11 +20,11 @@ export default function Header() {
   return (
     <header className="px-48 py-4 shadow border-gray-200 w-full flex items-center space-x-8">
       <Link href="/">
-        <Image src="/logo.png" alt="Posterity logo" width="150" height="64" />
+        <Image src="/CryptoLegacy.png" alt="CryptoLegacy logo" width="150" height="64" />
       </Link>
       <div className="grow" />
       <div className="items-center space-x-5">
-        <Link href="/posterity-wallet">Posterity Wallet</Link>
+        <Link href="/posterity-wallet">CryptoLegacy Wallet</Link>
         <Link href="/manage-heirs">Manage heirs</Link>
         <Link href="/start-a-succession">Start a succession</Link>
       </div>

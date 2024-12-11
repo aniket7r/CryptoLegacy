@@ -1,2 +1,2 @@
-# Contracts PosterityWallet
- PosterityWallet
+# Contracts CryptoLegacyWallet
+ CryptoLegacyWallet
